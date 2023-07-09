@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "price": 9000,
+      "name": "Kodak tracing A4",
+      "gsm":"90-100",
+      "sheets":250,
+      "imageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYVFRUVFRUYFRgYEhgZGRoYEhgRGBIYGhgZGRgYGBgcIC4lHB4sHxkZJjgnKy8xNTU1GiQ7QDszPy40NTEBDAwMEA8QHxISHjQhJCQ2NzQxMTQ0OjQ0MTQ0NDQ0NDQ0NDQ0MTQ0NDQ0NDQ0MTExNDQ0NDQxNDQ0NDQ0NDQ0Mf/AABEIAQMAwgMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAAAQYCAwQFBwj/xABGEAABAwICAwsJBQYGAwAAAAABAAIRAyESMQRBUQUGExYiUmFxkZLRMlOBoaKxwdLhI0JiY/AUFUNzk8IHM4KjsuJyg/H/xAAZAQEBAAMBAAAAAAAAAAAAAAAAAQIEBQP/xAAkEQACAgIBBAMBAQEAAAAAAAAAAQIRA1ESBBMUMSEiYYFSQf/aAAwDAQACEQMRAD8A+yIiKkCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAi8Gtvja0kBhMEi7gMs7CVq40N5kek+C8XngvbPRYpNWkWNFXRvobzPaPgnGdvM9o/Kp5GPZe1LRYkVdO+dvM9o+CcaG8wd4/KnkY9k7M9FiRVzjQ3me0flTjQ3me0flTv49l7UtFjRV3jSzm+0flUcamc32j4J38ex2paLGirvGpnMPb9FB31M5h7fonfx7HalosaKtcbG+bPe+ikb62cw976J38ex2p6LIirXGtnmz2/RONjOYe36J5GPY7UtFlRVrjWzmHvfRONjPNnvfRPIx/6RO1PRZUVbG+tnMPe+i6tzd32Vnhga4EgmZkWCyjmhJ0mHjklbR7SIi9TzCIiAIiID5zumyK9Vv5jvWZ+K58e3tXo75GRpD+nCe1oXmYtq4uZVNr9Olj+YpmeHWPUolYxGSkVNq8rMyZQdCghRhQEqYUAKUAhRhUogII/XuURtWRRAYE/rYoxazb3pWqNa0ucYAzJXnO3Xpa3+y7wVUZP0io78X/zxTEubRtJY8EsOIAwbEX9KjSNLYyMbg2ctZPoCxp3VFo6sSxLlwfvWlzx2O8F1UKzXgOYQ4bQjjJe0DabZ9i97ecMVdzjqpu9EloXgQrNvIZy6p2MaO0k/BbHSq8iPHP8AEGXFERdg5wREQBERAUvfg2KzTtpj1OcvCVk36M5VJ3Q4dhafiq1K4/U/GRnRwO4IAo6FjiSVrnsS1ZBay9QgNpfsUhagVIepZKNqStBKSlijfKSufEVm11ksUcW7z4ou/wDJvvVY0fR3VHhrcz2AayVYN8B+y/1t+JXmftHAMLGf5jgMbuZaQ1vit7C2ofHtlR3aTpjNHYGMu4DLYec7p1wq/VqOe4ucSSdZUOvdYle0MSj8+3sp1aOBgfyCTfl4MQZZsA+1fVIK93cIRSHS53vj4LxaQdgkYbNeROLEGkBjyI5Pavd3JEUWdRPa4rxzv6/0HcCrhvIbyartr2jsbPxVOCvG8tsUCedUd6gB8Fh0avIa/Uv6lhREXWOeEREAREQFa35s5FN2x5Ha36KoSrvvvZNCea9p94+Koy5PVqshv9O/qQCoJUFJWmbJlKLFTKAlFEoSgBKSoRCGSlqxUgoDzN8Tvs2/zB/xcvO0Rja7MDjD2DkO2t5p2gL0N3qTnsbhaXQ+SAJORGXpXi0aFVpDmseCDI5Dlv4aeP3TKaq1JzHFrhBH6kbQtRVpraOKzGlzS10SLQ5h1jqXgV9BqMcRgcY1taSD1FeuPMpfD+GCJHBxjOKZwYjETERlP3upWPQGxTYPy2+6VX6lN7mNYKTwRF8J5eedun1lWWkyGtGxoHYFr9RL4S/QZlfQt6lONGp9Jc7tcfhC+dkr6fuJTw0KI/Lb6xPxWfRL7Nmp1T+EjuREXTNIIiIAiIgPK3zNnRqvQAexwK+ely+kbuCdHrwJPAvIG0hpI9y+HDfU6J4Jvft2lq0epwym04o2sGWMU1IspKkFVZ2+s+anp4S3/FG77Pyv9z/qtXxMujY7+PZapSVV+Ng81/uf9VI32t807vjwU8TLod/Hss6KtcbWead3x4IN9rPNP7zVPEy6HfhssiAqt8bWebf2t8Vmd9dPzb+1vini5dDvw2WIlQq7xtp8yp7HzKeNtPmVOxnzKeNl/wAjvQ2WGVEqv8a6XMqdjPmUca6XMqdjPmTxsumO/DZYZSVXxvqpcyp3W/MnGmlzKndb8yvj5dMvehs99JXgjfTR5r+635k40Uea/ut+ZPHy6Y70Nnv4ZMDXZfWKTMLWjY0DsEL41uFuzTraTQpta+X1WAS0QLyZvsBX2db3S45QT5KjV6icZNcXZKIi3DWCIiAIiIDVpLMTHt2scO0EL8wOaWktgS0xeTEW1r9SL8ybuUgzSdIYT5OkVBGeT3KoM5TSLhMzePVPYsRR14gBMA3v1dCmnXwgiJki20ZEI97CMMuABMGJzzBWLbs9UoV+mX7ObyQIjOYvlEKG6M6cNspnVG2Vm6u0hwMgQ0C0m21ZHSmwQATDQ0aiRruMlLkZccezRwJ5X4SAemTFllR0QueGF7GGJl7yxotMEwbrd+1CS4ZkNtGsdPUuSthnkmxvfUdnSsk3fyYTjFL6s7t0tx30Dhe5j3WlrHl7mSJBc3CIBtfpXE6k6MRaQJicJidk5SrNpG7jBW0qpTeQX6MxlN2BwONuHaLZG66KO7FDg8L3uqTRpgseHuLnse1z2kRgH3oIudZWR4lU0fRXPexkhmPJzyWMymS6MvFacJzgxAOR15K5U92GNrh79Jc9hrOe1nBO+xaWPaJJbLTyg2GW1rk0fdlgaxjnzTG5gpuYQ7Ca+GMJtc6py6VQVjD+oXpaJuFWqMY9gYQ/FgaajGPeWEhwa1xE5K0bqucKemOc94Y6ixtOm+mWNpFxaMDH+S/X5EjavFG7LaVDRW02sfUYKpl7XE0nOeSC24BJB6ckFngFpEyIgkHoIzHWoV3pboUnNFPhRUx/s7WAl2Iv4VheSwMDWOF7gknWo0jdKkypWFeq2sx2lNwUwwngcDzjLgW2yiBOKDnKhbKTKkK6ndmkHS59N7m8M9hDn1c2FrWYnNAAcSOQMsKp1fSHPcXvdic7MwBNoyFsgEKWr/DGhj3RofgD39jHD3uC++r4n/g7Rxaa93N0V3oLn0wPcV9sWLCCIiAIiIAiIgC+Fb797j3abpLmvYGuqlwBJHlAEzA6V91XzffWyNKqdIae1o8Fr9RklCPKJ7YYKUqZ84dvXrc6n3nfKsOLNca2d8/KrmAgC0vMyfhs+NApnFuv+X3z4KDvbr7Gf1PorsAkJ5uT8J40Cjne1pHNb/UCg729I5g/qN8VelMJ52TSHjQ/Sh8XtI5g/qM8U/cGk8z22eKvcIr52TSHix2yiO3A0nzfts+ZYHcDSfNHvs+ZX9Qi6+ekPFhtlBduJpJABpuIGQ4RhA6hissf3HpPmnd5nzL6AoV8+ekTxY7ZQBuNpIvwTgehzZHtKDuNpGZpP7WmfWvoEKIV8+ekPEjtnz/9zaR5l3s+KfufSPNP9nxX0CFBCedPSHix2zr/AMG9znsfpT3sLZbTaJi93k5dQX1RVTeJThlV217R2Nn+5Wtb2OblFSf/AE1ZxUZNIIiL0MAiIgCIiAKgb9mRpAPOpN9TnBX9Unf5T5dF21jx2EH+5a3VK8bPfp3U0VGvMS0SWmYGvUR2H1LU3E0wSYbDcUYiQQTIznJgmNq21nkNJGcjVObgD71jwxnDEmJ1N29PQf1lyo3RvMwL3kTEkO5IjDPJME9c5alspvMvN3AMZHJwyeXI68u0LKlXDjYGDN4ttuseGIAcYgkWgyASALzcyRIgRfZeu/VE/pDHubDXSNeI8rMZW6Z9ELJ1QkG99gaQYzno+sZrJ2kgajkDmBmHHWfwrFulSQIJl0WtAOODc/g9atP3RPjZrfpTuVAmGkixzwvMEA7Wi3T1LZUqPbiydBgANILuRitfbZbW1MWXRmMp1dfitVLSZaCR9xrzEAAPyEk52Kl3/wAH9IZpBJzaBflZgkRybOzuTnqyW3RySxk54GzOZOETKDSARIBIjPUNd7+6c04cbDmRlmQYgelJJv0ip17ZsRa3VoBMRD2tOLkgFxaM725QUCsLSIknpBuQCDaZj9WnFQZeSNqQsGVm2mRMRILSZkiJ6j2dS6ab2u8mTleCBcA6+gq8GOSNBChdeELEsGxXgORdd5tKNHB5z3H3N+CsC8ve7Tw6NSG1s94k/FeouzjVRS/DmzdybCIi9DAIiIAiIgCqO/5nJou2PcO1oP8Aarcq5v4ZOjg82q09oc34rxzq8bPTE6mj5+Y1rS3S6ZM4gCLXsRE7fSty5GvOJw4VkBxs5gkHOOrp6D6ORGKZ0ZOjrpvp5y20Zapt9FsmlizZiBnMWJn1xK5+G/HSIAk8k3AvkD0KS8anUSJcbi4E2sOiQvTiYcjeGUtrBI58WEiJnLMQpaaeotFmnyotBLTnsJ9BXPJnCeABANrg6iM9Vx2qQwOIltF2yDfybdYyEenoV4k5HQxzBMOb5TibgXJkymFkWLRAAs+IwzF5tF1zFk5toz1zJsTqtaTKllAn7lLIiRfVa0bY1qcV7scmdX7M3Z18owesTdZOoAiMrkjoJMyteKrzWG4+8RIm/UYUtfUkSxsTciocrXiOtY09ltGbKIAM3lwcc8xEa5+6EfRDpzk9JzvBj0rYiluy0jWKItnIiDJJESI9ZW1jAMvfOoD4KFmFU2KQWLlksqbMTmja4DtMLKKtkbpH0jQGYadNuymwdjQuhQApXXSpHOYREWRAiIgCIiALxt9lOdFq9GE9jmleyuDdqni0es3bSfHWGkj3LCauLRlF1JHysLUXwXTUAvrp+TYZHXqPpW5jZWQY4k4X2nKA4CBFtl5/QXHh7OlI5w+AeXTtJP2cESY95UvfnLqX3vu3xXAzzE59S3ik/ntI/li/rQ0XnNzZwx/lgwQ6Zk9FoXpaPOmaHutP2TrNsbxYD3ypab/wDledYPjC3ik/8s/+s39ErFujOkYm0zcEwwj9elLROLNdOnqDKXkuAIM3g2I2Lcxj2+Sxgm5gm5y90KG0HgghtORrwlpvnl6Vtaak3DI6C6Y7OtRvRUiGvfN2NHKE8rNpnER0iygVKkCWMJ1w+PgensW9Fha0ZV+mpj3yA5gAjMOmPQtyhEZkSsgsFkCiBK7NyWYq9IfmN9Rn4LkXqb2WYtIZ0BzuxpHvK9scbmjzyOosvyIi6pzwiIgCIiAIiIAtddmJrm7WkdoIWxFGU+Q0hAWngHX5DDM3ktJBMiYH6hd2lU8L3s2VHDscVxVRTxGXlptMPc0aotMaxZcempNHRfykQ7RrmKbc7csgkaj0fVHUDHkRnH2h2z0bT2LYAw8kPdJg2ffLp6LrMQwS55iQOURF8osrbJSOd1EmPs7/AMyIyv0/RZOYZPIfYiIqRIjWCV14xOGRMTE3A2woc8CASBOUkCepLZaRyCmYPJqC2qoDOQgX/ULJ8kzhqC2GzhcXJXUx4MwQYzgzHWheNZA9PYnL8FI42sM/xhlfECB+vSug0MxjeJ/FlebWW3FeJuNWxFG2EkGNgATMCL3J61KhFgZEoUlRKAYirFvLZNVx2U/e4eCrytm8llqrulrewE/FbHTq5o8czqLLUiIuoaIREQBERAEREAREQHzTdxmHSKw/GT28r4rya+ih5mTMQMiBcHIjoHYvd33CNJf0tYfZA+C8XhFyZ2pujoQpwVmmhoYbBk2diibF2HDJts1C1gtmk0MYANwLxiLZJaW3gbCVPCJwiw5O7MqjVGunoxa/GLnDF3kzlc8noCy0jRQ+JJESLWkFwdHshZcInCJyldilVGNHRAyYcTyA0fdsCSLjM3zWD9DDnF04ScxAePJLSeu+a3cInCIpSuxxj6NdDQwxwIdMYotc4onE7XlZdMrSaqnhFG3L2VJJfBtlJWnhE4RSgbZUStZemNHGy2bsavW85kUC7nVHHshvwXz4uX0vewyNGpdLSe84lbfSL7NmvnfweqiIugaYREQBERAEREAREQHPW0Om8y5jHGIlzQ4x6VqO5VDzNP8Apt8F2opSLbPPO42jn+DT/phYncLRvMM7i9JFOK0OT2eWd7+jeYZ2FRxd0bzLfWPivVRThHReT2eOd7ejH+CO87xWJ3r6L5r23/MvaROEdDlLZ4Z3q6L5s99/io4p6NzHd93ivdRTtx0i8pbK+d6Ojc13fKx4naN+Pv8A0ViRO3HSHKWyt8TdH21B/rHgnEzR+dU7zflVkRO3HSHOWyt8TNH51Tvt+Ve7oujtpsaxuTWhom5gbVvRZKKj6RHJv2wiIsjEIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiID/2Q=="
+     
+    },
+    {
+      "id": 2,
+      "price": 300,
+      "name": "JK Sparle",
+      "gsm":75,
+      "sheets":500,
+      "imageUrl": "https://jkpaper.com/wp-content/uploads/2021/12/16.png"
+ 
+    },
+    {
+      "id": 3,
+      "price": 300,
+      "name": "Challanger heavy duty",
+      "gsm":75,
+      "sheets":500,
+      "imageUrl": "https://4.imimg.com/data4/QB/EB/WN/NSDMERP-11325244/heavyxeroxpaper-250x250.png"
+
+    },
+    {
+      "id": 4,
+      "price":300,
+      "name": "Bindals Finerprints",
+      "gsm":75,
+      "sheets":500,
+      "imageUrl": "https://m.media-amazon.com/images/I/816cicOI-OL.jpg"
+
+    },
+    {
+      "id": 5,
+      "price":270,
+      "name": "JK easy copier",
+      "gsm":75,
+      "sheets":500,
+      "imageUrl": "https://static1.industrybuying.com/products/office-supplies/paper-paper-products/copy-multipurpose-paper/OF.OF.PA.CO.CO.316013_1672407436280.webp"
+
+    },
+    {
+      "id": 6,
+      "price":270,
+      "name": "PP lite",
+      "gsm":70,
+      "sheets":500,
+      "imageUrl": "https://5.imimg.com/data5/KU/TK/ES/IOS-68895988/product-jpeg.png"
+
+    },
+    {
+      "id": 7,
+      "price":450,
+      "name": "Sirpur ledger",
+      "gsm":90,
+      "sheets":500,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/7/322177253/WN/FG/XT/189592838/jk-sirpur-ledger-paper.jpg"
+
+    },
+    {
+      "id": 8,
+      "price":500,
+      "name": "Paper one",
+      "gsm":100,
+      "sheets":500,
+      "imageUrl": "https://offikart.s3.ap-south-1.amazonaws.com/uploads/products/low-cost-paperone-digital-paper-a4-100-gsm-mumbai-maharashtra-offikart.jpg"
+
+    },
+    {
+      "id": 9,
+      "price":500,
+      "name": "jk Excel bond",
+      "gsm":100,
+      "sheets":500,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/4/300689146/WS/BE/BS/112942585/jk-excel-bond-paper-a4-100-gsm-watermarked-off-white-colour-500x500.png",
+      "imageArr":[""]
+    }
+  ]
