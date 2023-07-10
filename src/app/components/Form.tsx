@@ -29,7 +29,7 @@ const Form = () => {
           <div className="relative z-0 w-full mb-6 group">
             <select
               name="Item needed"
-              className="bg-white text-black rounded pl-1 pr-1 w-[90%] border-gray-700 border focus:border-black font-nunito capitalize text-base  active:border-green  cursor-pointer"
+              className="bg-white text-black rounded pl-1 pr-1 w-full border-gray-700 border focus:border-black font-nunito capitalize text-base  active:border-green  cursor-pointer"
               id="Sort"
             >
               {CardData.map((item) => (
