@@ -5,8 +5,8 @@ import { CurrencySymbol } from "../../../lib/currencyconv";
 
 const Cards = () => {
   const [MoreCards, setmorecards] = useState(false);
-  const LessArr = CardData.filter((todo) => todo.id <= 6);
-  const MoreArr = CardData.filter((todo) => todo.id > 6);
+  const LessArr = CardData.filter((todo) => todo.id <= 8);
+  const MoreArr = CardData.filter((todo) => todo.id > 8);
   return (
     <>
       <div>
@@ -34,7 +34,7 @@ const Cards = () => {
                   <div className="text-start">
                     Price : {CurrencySymbol(item.price)}
                   </div>
-                  <div className="mr-1 ">GSI:{item.gsm}</div>
+                  <div className="mr-1 ">GSM:{item.gsm}</div>
                   <div className="mr-1 ">Sheets:{item.sheets}</div>
                 </div>
 
