@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import CardData from "../../../lib/data.json";
 import { CurrencySymbol } from "../../../lib/currencyconv";
 
-const cards = () => {
+const Cards = () => {
   const [MoreCards, setmorecards] = useState(false);
   const LessArr = CardData.filter((todo) => todo.id <= 6);
   const MoreArr = CardData.filter((todo) => todo.id > 6);
@@ -118,4 +118,4 @@ const cards = () => {
   );
 };
 
-export default cards;
+export default Cards;
