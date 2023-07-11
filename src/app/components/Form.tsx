@@ -1,6 +1,13 @@
+"use client"
 import React from "react";
 import CardData from "../../../lib/data.json";
+import Select from "react-select";
 const Form = () => {
+  const optionsArr = CardData.map(item =>
+    {
+      return {value:item.name,label:item.name.toLocaleLowerCase()}
+    })
+    console.log(optionsArr)
   return (
     <>
       <div className="h-1   w-full mt-4 bg-gray-700"></div>
@@ -13,6 +20,18 @@ const Form = () => {
           action="https://formsubmit.co/f160987b3c6b6490b0fbc929964345c4"
           method="POST"
         >
+          <div className="font-extralight text-xs mt-10">Items interested in</div>
+            <div className="relative z-10 w-full mb-6 group">
+           
+           {/* {CardData.map((item) => (
+             <>
+               <option value="market_cap_desc">{item.name}</option>
+             </>
+           ))} */}
+           <Select name="Items wanted" isMulti options={optionsArr} isSearchable noOptionsMessage={()=>"please enter something"} placeholder="Enter some items.." />
+     
+       </div>
+     
           <div className="relative z-0 w-full mb-6 group">
             <input
               type="email"
@@ -26,19 +45,7 @@ const Form = () => {
               Email address
             </label>
           </div>
-          <div className="relative z-0 w-full mb-6 group">
-            <select
-              name="Item needed"
-              className="bg-white text-black rounded pl-1 pr-1 w-full border-gray-700 border focus:border-black font-nunito capitalize text-base  active:border-green  cursor-pointer"
-              id="Sort"
-            >
-              {CardData.map((item) => (
-                <>
-                  <option value="market_cap_desc">{item.name}</option>
-                </>
-              ))}
-            </select>
-          </div>
+        
           <div className="relative z-0 w-full mb-6 group">
             <input
               name="requirement"

@@ -18,7 +18,7 @@ const Navbar = () => {
             </div>
 
             <div className="">
-              <ul className="flex md:space-x-7 space-x-3 text-lg  items-center">
+              <ul className="flex md:space-x-7 space-x-3 text-lg  items-center mr-4 md:mr-0">
                 <Link href={'/'}>Home</Link>
                 <Link href={'/about'}>About</Link>
                 
