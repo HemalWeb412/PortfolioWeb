@@ -5,8 +5,8 @@ const page = () => {
     <div className="bg-gray-100 min-h-screen">
     <div className="max-w-6xl h-[75vh] mx-auto px-4 py-8">
       <div className="flex flex-wrap -mx-4">
-        <div className="w-full md:w-1/2 px-4">
-          <img src="https://i.pinimg.com/originals/71/28/3b/71283bb49db55cfee5bb6acd1389c465.jpg" alt="About Us" className="w-full" />
+        <div className="w-full md:w-1/2 px-4 flex flex-col items-center">
+          <img  src="https://i.pinimg.com/originals/71/28/3b/71283bb49db55cfee5bb6acd1389c465.jpg" alt="About Us" className="md:w-full md:h-[550px] h-[350px] w-[75vw]" />
         </div>
         <div className="w-full md:w-1/2 px-4">
           <h2 className="text-3xl font-bold mb-4">About Us</h2>
