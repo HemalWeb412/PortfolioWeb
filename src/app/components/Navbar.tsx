@@ -25,7 +25,7 @@ const Navbar = () => {
               </ul>
             </div>
             <div className="md:flex text-center hidden">
-              <h1 className="md:text-sm lg:text-xl lg:font-black">STATIONARY-PAPERS-PRINTING.</h1>
+              <h1 className="md:text-sm lg:text-xl lg:font-black">STATIONARY-PAPER-PRINTING.</h1>
             </div>
           </div>
         </div>
