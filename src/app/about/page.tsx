@@ -6,21 +6,15 @@ const page = () => {
     <div className="max-w-6xl h-[75vh] mx-auto px-4 py-8">
       <div className="flex flex-wrap -mx-4">
         <div className="w-full md:w-1/2 px-4">
-          <img src="/path/to/image.jpg" alt="About Us" className="w-full" />
+          <img src="https://i.pinimg.com/originals/71/28/3b/71283bb49db55cfee5bb6acd1389c465.jpg" alt="About Us" className="w-full" />
         </div>
         <div className="w-full md:w-1/2 px-4">
           <h2 className="text-3xl font-bold mb-4">About Us</h2>
           <p className="text-lg mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ultrices lacus.
-            Phasellus id cursus nulla. Aliquam consequat interdum sem, vel euismod justo
-            consectetur in. Donec lobortis sem non lacinia pellentesque.
+           ADDRESS
           </p>
           <p className="text-lg">
-            Fusce sagittis, leo ac sagittis facilisis, dui est hendrerit elit, vitae aliquet
-            mi eros vitae nisl. Maecenas tincidunt urna sed lorem lacinia, ac vestibulum
-            massa sollicitudin. Sed rutrum est in orci eleifend, sit amet sodales ante
-            dignissim. Pellentesque habitant morbi tristique senectus et netus et malesuada
-            fames ac turpis egestas.
+           WRITE DESCRIPTION HERE
           </p>
         </div>
       </div>
